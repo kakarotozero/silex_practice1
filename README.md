@@ -1,4 +1,4 @@
-silex_practice1
+Silex Practice
 ===============
 
-Silex Practice
+Treino de uso do GitHub
